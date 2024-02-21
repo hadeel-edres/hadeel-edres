@@ -8,21 +8,8 @@ Currently, I'm expanding my skillset by delving into the world of UX/UI design, 
 and intuitive web experiences.
 
 Ready to collaborate on crafting exceptional web experiences? Let's connect!
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <title>Email und LinkedIn Logos</title>
-    <style>
-        a {
-            display: inline-block;
-            margin: 0 5px;
-        }
-    </style>
-</head>
-<body>
+
 <a href="mailto:adres.hadeel99@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="40" height="40"></a>
 
 <a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" width="40" height="40"></a>
-</body>
-</html>
+
