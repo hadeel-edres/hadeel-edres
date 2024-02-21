@@ -13,11 +13,11 @@ Ready to collaborate on crafting exceptional web experiences? Let's connect!
   <a href="mailto:adres.hadeel99@gmail.com">
     <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-64.png" alt="Email" width="40" height="40">
   </a>
-  &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" alt="LinkedIn" width="40" height="40">
   </a>
-   &nbsp; &nbsp;
+   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.xing.com/profile/Hadeel_Adres/web_profiles?expandNeffi=true">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/389_Xing_logo-64.png" alt="xing" width="40" height="40">
   </a>
