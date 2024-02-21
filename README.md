@@ -25,3 +25,4 @@ Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
 <a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" width="40" height="40"></a>
 </body>
+</html>
