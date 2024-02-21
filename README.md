@@ -9,16 +9,6 @@ and intuitive web experiences.
 
 Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
-.icons {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.icons a {
-  margin: 0 10px; /* Adjust spacing between icons as desired */
-}
-
 <div class="icons">
   <a href="mailto:adres.hadeel99@gmail.com">
     <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" alt="Email" width="40" height="40">
