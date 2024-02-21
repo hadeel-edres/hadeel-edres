@@ -1,4 +1,4 @@
-# Hadeel Adres
+# Hadeel Adres 
 Leveraging a Bachelor's degree in media informatics from the University of Tuebingen, I bring a solid educational background and expertise in the
 latest versions of PHP, TypeScript, and JavaScript to my web development endeavors.
 My primary focus has consistently been on crafting engaging and user-centric web applications. I thrive on the details of implementation,
@@ -8,6 +8,16 @@ Currently, I'm expanding my skillset by delving into the world of UX/UI design, 
 and intuitive web experiences.
 
 Ready to collaborate on crafting exceptional web experiences? Let's connect!
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icons a {
+  margin: 0 10px; /* Adjust spacing between icons as desired */
+}
 
 <a href="mailto:adres.hadeel99@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="40" height="40"></a>
 
