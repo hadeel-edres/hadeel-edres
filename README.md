@@ -9,8 +9,6 @@ and intuitive web experiences.
 
 Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
-<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" alt="Bild" title="Bild mit E-Mail-Adresse und LinkedIn-Profil">
-
-<a href="mailto:adres.hadeel99@gmail.com">E-Mail senden</a>
+<a href="mailto:adres.hadeel99@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="20" height="20"></a>
 
 <a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/">LinkedIn-Profil</a>
