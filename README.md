@@ -9,7 +9,7 @@ and intuitive web experiences.
 
 Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
-<img src="https://example.com/image.jpg" alt="Bild" title="Bild mit E-Mail-Adresse und LinkedIn-Profil">
+<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" alt="Bild" title="Bild mit E-Mail-Adresse und LinkedIn-Profil">
 
 <a href="mailto:adres.hadeel99@gmail.com">E-Mail senden</a>
 
