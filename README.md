@@ -11,7 +11,7 @@ Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
 <div class="icons">
   <a href="mailto:adres.hadeel99@gmail.com">
-    <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" alt="Email" width="40" height="40">
+    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-64.png" alt="Email" width="40" height="40">
   </a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/">
