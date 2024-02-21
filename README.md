@@ -9,6 +9,6 @@ and intuitive web experiences.
 
 Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
-<a href="mailto:adres.hadeel99@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="20" height="20"></a>
+<a href="mailto:adres.hadeel99@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="40" height="40"></a>
 
-<a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/">LinkedIn-Profil</a>
+<a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" width="40" height="40"></a>
