@@ -11,6 +11,6 @@ Ready to collaborate on crafting exceptional web experiences? Let's connect!
 
 <img src="https://example.com/image.jpg" alt="Bild" title="Bild mit E-Mail-Adresse und LinkedIn-Profil">
 
-<a href="mailto:info@example.com">E-Mail senden</a>
+<a href="mailto:adres.hadeel99@gmail.com">E-Mail senden</a>
 
-<a href="https://www.linkedin.com/in/johndoe">LinkedIn-Profil</a>
+<a href="https://www.linkedin.com/in/hadeel-adres-8726bb191/">LinkedIn-Profil</a>
